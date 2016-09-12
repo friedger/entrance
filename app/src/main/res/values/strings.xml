@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Entrance</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_ip_address">IP address</string>
+    <string name="pref_default_ip_address">10.10.10.2</string>
+    <string name="pref_key_ip_address">ip_address</string>
+    <string name="preferences">Preferences</string>
+
+</resources>
